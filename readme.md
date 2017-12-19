@@ -1,0 +1,1 @@
+It is a simple game in which you shuld guess the color by its RGB code
